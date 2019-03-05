@@ -1,2 +1,2 @@
 # BOJ
-BOJ
+Mainly java
