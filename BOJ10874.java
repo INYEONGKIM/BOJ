@@ -12,6 +12,7 @@ public class BOJ10874 {
             s=br.readLine();
             if(s.equals(ans)) bw.write(i+"\n");
         }
+        
         bw.flush();
         bw.close();
     }
