@@ -1,0 +1,7 @@
+n=input();l=len(n);c=0
+while l>1:
+    t=1;c+=1
+    for i in range(l):
+        t*=int(n[i])
+    n=str(t); l=len(n)
+print(c)
